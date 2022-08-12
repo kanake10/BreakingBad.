@@ -39,6 +39,7 @@
 		963CADD828A5CBE800E18A26 = {
 			isa = PBXGroup;
 			children = (
+				968063B228A5EE5F00FD2E59 /* images */,
 				963CADE328A5CBE800E18A26 /* BreakingBad */,
 				963CADE228A5CBE800E18A26 /* Products */,
 			);
@@ -71,6 +72,13 @@
 				963CADEB28A5CBEC00E18A26 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		968063B228A5EE5F00FD2E59 /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
